@@ -35,3 +35,4 @@ class Solution {
 
 The Stack<Character> data structure is ideal for matching opening and closing brackets, as it operates in a last-in, first-out (LIFO) manner.
 The toCharArray() method converts the string into a character array for easy iteration.
+We can replace  with  to make it clearer, as  is preferred for readability.
